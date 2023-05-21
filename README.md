@@ -1,4 +1,4 @@
-# -Build-a-COMPLETE-Fullstack-ecommerce-Responsive-MERN-App-React-Redux-Nodejs-MongoDB-Express
+# -Build-a-COMPLETE-Fullstack-food delivery-ecommerce-Responsive-MERN-App-React-Redux-Nodejs-MongoDB-Express
  Build a COMPLETE Fullstack ecommerce Responsive MERN App | React, Redux, Nodejs, MongoDB, Express
 
 Backend Environment variables  : 
@@ -6,10 +6,6 @@ Backend Environment variables  :
 MONGODB_URL : ""
 STRIPE_SECRET_KEY : "",
 FRONTEND_URL : "",
-
-MY Backend URL : https://backend-mern-kowt.onrender.com
-
-start : 
 
 ## npm run dev 
 
